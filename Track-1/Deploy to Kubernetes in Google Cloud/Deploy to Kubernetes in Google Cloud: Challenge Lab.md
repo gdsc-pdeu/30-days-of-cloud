@@ -53,7 +53,7 @@ docker run -p 8080:8080 valkyrie-app:v0.0.1 &
 cd ../marking
 ```
 ```
-./ste
+./step2.sh
 ```
  
   </p>
